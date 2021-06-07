@@ -15,12 +15,12 @@ module.exports = {
         trackingId,
       },
     },
-     "gatsby-plugin-image",
+    "gatsby-plugin-image",
     {
       resolve: "gatsby-plugin-manifest",
       options: {
         name: title,
-        short_name: "Agency",
+        short_name: "Wagon Wheel",
         start_url: "/",
         background_color: "#ffffff",
         theme_color: "#fed136",
