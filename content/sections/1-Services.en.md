@@ -1,22 +1,22 @@
 ---
 anchor: "Services"
 header: "Services"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: ""
 services: [
   {
     iconName: "ShoppingCartIcon",
     header: "E-Commerce",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: ""
   },
   {
     iconName: "LaptopIcon",
-    header: "Responsive Design",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Web Development",
+    content: ""
   },
   {
-    iconName: "LockIcon",
-    header: "Web Security",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    iconName: "MobileIcon",
+    header: "Mobile Apps",
+    content: ""
   }
 ]
 ---
