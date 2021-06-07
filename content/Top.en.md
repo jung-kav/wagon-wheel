@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
+header: "Wagon Wheel"
+subheader: "Web & Mobile App Development"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+jumpToAnchorText: "Learn More"
 ---
