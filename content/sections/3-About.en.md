@@ -1,5 +1,4 @@
 ---
-anchor: "About"
 header: "About"
 subheader: "Lorem ipsum dolor sit amet consectetur."
 timeline: [
