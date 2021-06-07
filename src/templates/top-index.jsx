@@ -58,13 +58,6 @@ export const query = graphql`
             iconName
             imageFileName
           }
-          social {
-            facebook
-            github
-            linkedin
-            medium
-            twitter
-          }
           subheader
           teamMember {
             header
